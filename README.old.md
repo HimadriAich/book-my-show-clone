@@ -480,7 +480,7 @@ Technical Round For Coding Questions ?
 
 *******************************************************
 A) 
-1) yt tutorials           2) projects-hackt,code contests,webinars etc.-resume,github,linkedIn        3) open source + freelance      
+1) yt tutorials(projects + course certifications)    2) hackt,code contests,webinars etc.-resume,github,linkedIn,cold-email(Internship)    3) open source + freelance      
 (For both web dev + ai + ml)
 
 B) DSA
