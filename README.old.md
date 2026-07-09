@@ -485,7 +485,7 @@ A)
 
 B) DSA
 
-C) prompt engineering / gen and agentic ai (n8n) / ai tools & chatgpt expert course / ai automation
+C) prompt engineering and context engineering/ gen and agentic ai (n8n) / ai tools & chatgpt expert course / ai automation
 
 D) aptitude+logical reasoning + gd + gk + verbal communication etc. mock tests/ computer netwroking + os + dbms + s/w engineering + oops concepts etc.
 ********************************************************
